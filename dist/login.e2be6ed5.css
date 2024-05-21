@@ -1,0 +1,262 @@
+.img-4769-1-icon {
+  object-fit: cover;
+  width: 1440px;
+  height: 1022px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.rectangle5 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 626.3px;
+  height: 583px;
+  position: absolute;
+  top: 218px;
+  left: 49.3px;
+}
+
+.welcome-back {
+  font-size: var(--body-h4-size);
+  letter-spacing: -.01em;
+  width: 561.9px;
+  height: 47.8px;
+  line-height: 36px;
+  display: inline-block;
+  position: absolute;
+  top: 278.8px;
+  left: 128.9px;
+}
+
+.button-child15 {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  position: absolute;
+  inset: 0;
+}
+
+.login1 {
+  letter-spacing: -.01em;
+  font-weight: 600;
+  position: absolute;
+  top: 31.26%;
+  left: 33.77%;
+}
+
+.button19 {
+  border-radius: var(--br-3xs);
+  text-align: center;
+  color: var(--actionable-item);
+  width: 130.9px;
+  height: 53.1px;
+  position: absolute;
+  top: 639.5px;
+  left: 270.9px;
+}
+
+.photo9 {
+  letter-spacing: -.01em;
+  justify-content: center;
+  align-items: center;
+  width: 71.83%;
+  height: 100%;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 28.17%;
+}
+
+.union-icon18, .union-icon19 {
+  width: 22.5px;
+  height: 22.5px;
+  position: relative;
+}
+
+.union-icon19 {
+  object-fit: contain;
+}
+
+.sample-logo9 {
+  font-size: var(--font-size-9xl-4);
+  color: var(--color-black);
+  font-family: var(--font-comfortaa);
+  width: 122.1px;
+  height: 32px;
+  position: absolute;
+  top: 14px;
+  left: 80px;
+}
+
+.features6, .my-dashboard6, .support6 {
+  letter-spacing: -.01em;
+  font-weight: 500;
+  position: absolute;
+  top: 21px;
+  left: 892px;
+}
+
+.my-dashboard6, .support6 {
+  left: 1008px;
+}
+
+.support6 {
+  left: 1169px;
+}
+
+.button-child16 {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.search14 {
+  letter-spacing: -.01em;
+  font-weight: 500;
+  display: none;
+  position: absolute;
+  top: 27.5%;
+  left: 26.15%;
+}
+
+.button20 {
+  color: var(--color-white);
+  width: 130px;
+  height: 40px;
+  position: absolute;
+  top: 10px;
+  left: 1262px;
+}
+
+.search15 {
+  letter-spacing: -.01em;
+  justify-content: center;
+  align-items: center;
+  width: 129px;
+  height: 36px;
+  font-weight: 600;
+  display: flex;
+  position: absolute;
+  top: 14px;
+  left: 1263px;
+}
+
+.group-child16, .group-child17, .navigation-b6 {
+  background-color: var(--color-white);
+  position: absolute;
+}
+
+.navigation-b6 {
+  text-align: center;
+  color: var(--actionable-item);
+  width: 1440px;
+  height: 77px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.group-child16, .group-child17 {
+  border: 1px solid var(--color-gray-400);
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  outline: 0;
+  width: 483.4px;
+  height: 53.8px;
+  top: 410.6px;
+  left: 114.8px;
+}
+
+.group-child17 {
+  width: 497.5px;
+  height: 53.1px;
+  top: 525.6px;
+  left: 117.8px;
+}
+
+.username {
+  width: 187.3px;
+  height: 29px;
+  line-height: 24px;
+  display: inline-block;
+  top: 371px;
+  left: 126.9px;
+}
+
+.forgot-password, .password, .username {
+  letter-spacing: -.01em;
+  position: absolute;
+}
+
+.password {
+  width: 176.2px;
+  height: 26px;
+  line-height: 24px;
+  display: inline-block;
+  top: 484px;
+  left: 127.9px;
+}
+
+.forgot-password {
+  color: var(--color-dimgray-100);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 156.1px;
+  height: 28px;
+  font-weight: 500;
+  display: flex;
+  top: 594px;
+  left: 121.8px;
+}
+
+.register-here {
+  color: var(--actionable-item);
+}
+
+.dont-have-an-container1 {
+  width: 100%;
+}
+
+.dont-have-an-container {
+  letter-spacing: -.01em;
+  color: var(--color-dimgray-100);
+  align-items: center;
+  width: 312.2px;
+  height: 39px;
+  font-weight: 500;
+  text-decoration: none;
+  display: flex;
+  position: absolute;
+  top: 717px;
+  left: 132.9px;
+}
+
+.group6 {
+  width: 1440px;
+  height: 1022px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.login {
+  background-color: var(--color-gainsboro-100);
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--sub-page-h1);
+  width: 100%;
+  height: 1022px;
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=login.e2be6ed5.css.map */

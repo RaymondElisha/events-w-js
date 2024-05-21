@@ -1,0 +1,321 @@
+.button-child53 {
+  border-radius: var(--br-7xs);
+  background-color: var(--actionable-item);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.search37 {
+  letter-spacing: -.01em;
+  font-weight: 500;
+  display: none;
+  position: absolute;
+  top: 27.5%;
+  left: 26.15%;
+}
+
+.button57 {
+  color: var(--color-white);
+  width: 130px;
+  height: 40px;
+  position: absolute;
+  top: 10px;
+  left: 1135px;
+}
+
+.photo20 {
+  letter-spacing: -.01em;
+  justify-content: center;
+  align-items: center;
+  width: 71.83%;
+  height: 100%;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 28.17%;
+}
+
+.union-icon40, .union-icon41 {
+  width: 22.5px;
+  height: 22.5px;
+  position: relative;
+}
+
+.union-icon41 {
+  object-fit: contain;
+}
+
+.sample-logo20 {
+  font-size: var(--font-size-9xl-4);
+  color: var(--color-black);
+  font-family: var(--font-comfortaa);
+  width: 122.1px;
+  height: 32px;
+  position: absolute;
+  top: 14px;
+  left: 80px;
+}
+
+.features13 {
+  letter-spacing: -.01em;
+  font-weight: 500;
+  position: absolute;
+  top: 21px;
+  left: 892px;
+}
+
+.my-dashboard17 {
+  font-weight: 500;
+  top: 21px;
+  left: 1008px;
+}
+
+.my-dashboard17, .search38, .support13 {
+  letter-spacing: -.01em;
+  position: absolute;
+}
+
+.support13 {
+  color: var(--color-white);
+  top: 21px;
+  left: 1168px;
+}
+
+.search38 {
+  justify-content: center;
+  align-items: center;
+  width: 129px;
+  height: 36px;
+  font-weight: 600;
+  display: flex;
+  top: 14px;
+  left: 1263px;
+}
+
+.navigation-b13, .rectangle11 {
+  background-color: var(--color-white);
+  position: absolute;
+}
+
+.navigation-b13 {
+  text-align: center;
+  color: var(--actionable-item);
+  width: 1440px;
+  height: 77px;
+  top: 22px;
+  left: -24px;
+  overflow: hidden;
+}
+
+.rectangle11 {
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 671px;
+  height: 791px;
+  top: 0;
+  left: 0;
+}
+
+.contact-us7, .message, .subject {
+  letter-spacing: -.01em;
+  width: 186px;
+  height: 29px;
+  line-height: 24px;
+  display: inline-block;
+  position: absolute;
+  top: 312px;
+  left: 51px;
+}
+
+.contact-us7, .message {
+  top: 413px;
+  left: 48px;
+}
+
+.contact-us7 {
+  font-size: var(--body-h4-size);
+  width: 261px;
+  height: 64px;
+  line-height: 36px;
+  top: 38px;
+  left: 46px;
+}
+
+.button-child54 {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.login2 {
+  letter-spacing: -.01em;
+  font-weight: 600;
+  position: absolute;
+  top: 27.62%;
+  left: 44.88%;
+}
+
+.button58, .group-child28, .group-child29 {
+  background-color: var(--color-white);
+  border-radius: var(--br-3xs);
+  position: absolute;
+}
+
+.button58 {
+  text-align: center;
+  color: var(--actionable-item);
+  width: 566px;
+  height: 42px;
+  top: 687px;
+  left: 51px;
+}
+
+.group-child28, .group-child29 {
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  outline: 0;
+  width: 571px;
+  height: 36px;
+  top: 151px;
+  left: 46px;
+}
+
+.group-child29 {
+  width: 576px;
+  top: 255px;
+  left: 48px;
+}
+
+.email1, .name1 {
+  letter-spacing: -.01em;
+  width: 186px;
+  height: 29px;
+  line-height: 24px;
+  display: inline-block;
+  position: absolute;
+  top: 112px;
+  left: 51px;
+}
+
+.email1 {
+  top: 211px;
+}
+
+.group-child30, .group-child31 {
+  border: 1px solid var(--color-gray-400);
+  background-color: var(--color-white);
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  outline: 0;
+  width: 576px;
+  height: 36px;
+  position: absolute;
+  top: 354px;
+  left: 48px;
+}
+
+.group-child31 {
+  width: 578px;
+  height: 183px;
+  top: 455px;
+  left: 46px;
+}
+
+.contact-us8, .group8 {
+  width: 671px;
+  height: 791px;
+  position: absolute;
+  top: 155px;
+  left: 724px;
+}
+
+.contact-us8 {
+  font-size: var(--font-size-21xl);
+  letter-spacing: -.01em;
+  width: 577px;
+  height: 69px;
+  line-height: 36px;
+  display: inline-block;
+  top: 156px;
+  left: 39px;
+}
+
+.your-experience-and {
+  margin-block: 0 18px;
+}
+
+.lets-connect-and {
+  margin: 0;
+}
+
+.company-email-harmonesupport-container, .your-experience-and-container {
+  letter-spacing: -.01em;
+  line-height: 36px;
+  display: inline-block;
+  position: absolute;
+}
+
+.your-experience-and-container {
+  width: 596px;
+  height: 175px;
+  font-size: 28px;
+  font-weight: 500;
+  top: 220px;
+  left: 40px;
+}
+
+.company-email-harmonesupport-container {
+  font-size: var(--font-size-11xl);
+  width: 418px;
+  height: 90px;
+  top: 514px;
+  left: 39px;
+}
+
+.instagram-harmoneofficial, .socials {
+  margin-block: 0 18px;
+}
+
+.socials {
+  font-size: var(--font-size-11xl);
+}
+
+.instagram-harmoneofficial {
+  font-weight: 500;
+}
+
+.linkedin-harmone {
+  margin: 0;
+  font-weight: 500;
+}
+
+.socials-instagram-harmoneoff-container {
+  letter-spacing: -.01em;
+  line-height: 36px;
+  font-size: var(--font-size-6xl);
+  width: 400px;
+  height: 283px;
+  display: inline-block;
+  position: absolute;
+  top: 683px;
+  left: 39px;
+}
+
+.contact-page {
+  background-color: var(--color-gainsboro-100);
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--sub-page-h1);
+  width: 100%;
+  height: 1022px;
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=contact-page.5b1cbd28.css.map */
